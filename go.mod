@@ -1,3 +1,3 @@
-module github.com/pradeep-pyro/triangle
+module github.com/epit3d/triangle
 
 go 1.17
